@@ -1,0 +1,2 @@
+(self["webpackChunkadmin"]=self["webpackChunkadmin"]||[]).push([[8375,6671],{88375:function(n,e,t){"use strict";e.snippetText=t(16671),e.scope="makefile"},16671:function(n){n.exports="snippet ifeq\n\tifeq (${1:cond0},${2:cond1})\n\t\t${3:code}\n\tendif\n"}}]);
+//# sourceMappingURL=8375.7144e230.js.map

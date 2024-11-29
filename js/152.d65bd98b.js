@@ -1,0 +1,2 @@
+(self["webpackChunkadmin"]=self["webpackChunkadmin"]||[]).push([[152,9366],{40152:function(n,e,s){"use strict";e.snippetText=s(19366),e.scope="maze"},19366:function(n){n.exports="snippet >\ndescription assignment\nscope maze\n\t-> ${1}= ${2}\n\nsnippet >\ndescription if\nscope maze\n\t-> IF ${2:**} THEN %${3:L} ELSE %${4:R}\n"}}]);
+//# sourceMappingURL=152.d65bd98b.js.map

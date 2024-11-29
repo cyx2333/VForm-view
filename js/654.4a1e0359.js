@@ -1,0 +1,2 @@
+(self["webpackChunkadmin"]=self["webpackChunkadmin"]||[]).push([[654,1824],{90654:function(n,t,e){"use strict";t.snippetText=e(31824),t.scope="rst"},31824:function(n){n.exports="# rst\n\nsnippet :\n\t:${1:field name}: ${2:field body}\nsnippet *\n\t*${1:Emphasis}*\nsnippet **\n\t**${1:Strong emphasis}**\nsnippet _\n\t\\`${1:hyperlink-name}\\`_\n\t.. _\\`$1\\`: ${2:link-block}\nsnippet =\n\t${1:Title}\n\t=====${2:=}\n\t${3}\nsnippet -\n\t${1:Title}\n\t-----${2:-}\n\t${3}\nsnippet cont:\n\t.. contents::\n\t\n"}}]);
+//# sourceMappingURL=654.4a1e0359.js.map

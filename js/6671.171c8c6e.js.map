@@ -1,0 +1,1 @@
+{"version":3,"file":"js/6671.171c8c6e.js","mappings":"0FAAAA,EAAOC,QAAW,wE","sources":["webpack://admin/./node_modules/ace-code/src/snippets/makefile.snippets.js"],"sourcesContent":["module.exports = `snippet ifeq\n\tifeq (\\${1:cond0},\\${2:cond1})\n\t\t\\${3:code}\n\tendif\n`;\n"],"names":["module","exports"],"sourceRoot":""}

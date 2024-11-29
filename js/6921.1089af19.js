@@ -1,0 +1,2 @@
+(self["webpackChunkadmin"]=self["webpackChunkadmin"]||[]).push([[6921,3549],{66921:function(n,p,t){"use strict";p.snippetText=t(3549),p.scope="snippets"},3549:function(n){n.exports="# snippets for making snippets :)\nsnippet snip\n\tsnippet ${1:trigger}\n\t\t${2}\nsnippet msnip\n\tsnippet ${1:trigger} ${2:description}\n\t\t${3}\nsnippet v\n\t{VISUAL}\n"}}]);
+//# sourceMappingURL=6921.1089af19.js.map

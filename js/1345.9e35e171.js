@@ -1,0 +1,2 @@
+(self["webpackChunkadmin"]=self["webpackChunkadmin"]||[]).push([[1345,5397],{21345:function(t,n,e){"use strict";n.snippetText=e(5397),n.scope="haml"},5397:function(t){t.exports="snippet t\n\t%table\n\t\t%tr\n\t\t\t%th\n\t\t\t\t${1:headers}\n\t\t%tr\n\t\t\t%td\n\t\t\t\t${2:headers}\nsnippet ul\n\t%ul\n\t\t%li\n\t\t\t${1:item}\n\t\t%li\nsnippet =rp\n\t= render :partial => '${1:partial}'\nsnippet =rpl\n\t= render :partial => '${1:partial}', :locals => {}\nsnippet =rpc\n\t= render :partial => '${1:partial}', :collection => @$1\n\n"}}]);
+//# sourceMappingURL=1345.9e35e171.js.map

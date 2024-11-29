@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkadmin"]=self["webpackChunkadmin"]||[]).push([[5524],{15524:function(t,e,i){var s=i(41218),n=i(38507).Mode,o=i(71815).f,c=function(){this.HighlightRules=o};s.inherits(c,n),function(){this.lineCommentStart=";",this.blockComment={start:"/*",end:"*/"},this.$id="ace/mode/csound_orchestra",this.snippetFileId="ace/snippets/csound_orchestra"}.call(c.prototype),e.Mode=c}}]);
+//# sourceMappingURL=5524.7ee43f03.js.map

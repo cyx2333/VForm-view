@@ -1,0 +1,2 @@
+(self["webpackChunkadmin"]=self["webpackChunkadmin"]||[]).push([[1842,4892],{41842:function(n,e,t){"use strict";e.snippetText=t(4892),e.scope="fsl"},4892:function(n){n.exports='snippet header\n\tmachine_name     : "";\n\tmachine_author   : "";\n\tmachine_license  : MIT;\n\tmachine_comment  : "";\n\tmachine_language : en;\n\tmachine_version  : 1.0.0;\n\tfsl_version      : 1.0.0;\n\tstart_states     : [];\n'}}]);
+//# sourceMappingURL=1842.b19e5ac9.js.map

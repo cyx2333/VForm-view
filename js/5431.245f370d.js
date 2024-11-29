@@ -1,0 +1,2 @@
+(self["webpackChunkadmin"]=self["webpackChunkadmin"]||[]).push([[5431,2783],{35431:function(n,s,t){"use strict";s.snippetText=t(72783),s.scope="csound_document"},72783:function(n){n.exports="# <CsoundSynthesizer>\nsnippet synth\n\t<CsoundSynthesizer>\n\t<CsInstruments>\n\t${1}\n\t</CsInstruments>\n\t<CsScore>\n\te\n\t</CsScore>\n\t</CsoundSynthesizer>\n"}}]);
+//# sourceMappingURL=5431.245f370d.js.map
